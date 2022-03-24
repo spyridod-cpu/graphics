@@ -109,12 +109,6 @@ void main(int argc, char** argv)
 void mouse_callback_function(int button, int state, int x, int y){
 	if (button == GLUT_LEFT_BUTTON){
 
-	}else
-	{
-		if(button == GLUT_RIGHT_BUTTON){
-
-
-		}
 	}
 	
 
